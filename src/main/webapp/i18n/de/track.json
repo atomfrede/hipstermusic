@@ -1,0 +1,23 @@
+{
+  "hipstermusicApp": {
+    "track": {
+      "home": {
+        "title": "Tracks",
+        "createLabel": "Track erstellen",
+        "createOrEditLabel": "Track erstellen oder bearbeiten",
+        "notFound": "No Tracks found"
+      },
+      "created": "Track erstellt mit ID {{ param }}",
+      "updated": "Track aktualisiert mit ID {{ param }}",
+      "deleted": "Track gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Track {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Track"
+      },
+      "name": "Name",
+      "album": "Album"
+    }
+  }
+}

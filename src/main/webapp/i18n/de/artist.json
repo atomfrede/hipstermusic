@@ -1,0 +1,22 @@
+{
+  "hipstermusicApp": {
+    "artist": {
+      "home": {
+        "title": "Artists",
+        "createLabel": "Artist erstellen",
+        "createOrEditLabel": "Artist erstellen oder bearbeiten",
+        "notFound": "No Artists found"
+      },
+      "created": "Artist erstellt mit ID {{ param }}",
+      "updated": "Artist aktualisiert mit ID {{ param }}",
+      "deleted": "Artist gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Artist {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Artist"
+      },
+      "name": "Name"
+    }
+  }
+}

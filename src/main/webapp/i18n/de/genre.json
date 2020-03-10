@@ -1,0 +1,22 @@
+{
+  "hipstermusicApp": {
+    "genre": {
+      "home": {
+        "title": "Genres",
+        "createLabel": "Genre erstellen",
+        "createOrEditLabel": "Genre erstellen oder bearbeiten",
+        "notFound": "No Genres found"
+      },
+      "created": "Genre erstellt mit ID {{ param }}",
+      "updated": "Genre aktualisiert mit ID {{ param }}",
+      "deleted": "Genre gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Genre {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Genre"
+      },
+      "name": "Name"
+    }
+  }
+}
