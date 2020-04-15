@@ -1,0 +1,25 @@
+{
+  "hipstermusicApp": {
+    "album": {
+      "home": {
+        "title": "Albums",
+        "createLabel": "Album erstellen",
+        "createOrEditLabel": "Album erstellen oder bearbeiten",
+        "notFound": "No Albums found"
+      },
+      "created": "Album erstellt mit ID {{ param }}",
+      "updated": "Album aktualisiert mit ID {{ param }}",
+      "deleted": "Album gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Album {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Album"
+      },
+      "name": "Name",
+      "artist": "Artist",
+      "genre": "Genre",
+      "track": "Track"
+    }
+  }
+}
